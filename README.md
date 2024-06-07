@@ -1,3 +1,5 @@
+The Udapeople project is a comprehensive demonstration of AWS Cloud and DevOps skills, focusing on building a fully automated CI/CD pipeline for a web application. This project is part of the Udacity Advanced AWS Cloud DevOps Nanodegree.
+
 
 ## Give your Application Auto-Deploy Superpowers
 
